@@ -21,5 +21,6 @@ def speak_to_grandma(phrase)
   else
     phrase = "HUH?! SPEAK UP, SONNY!"
   end
+  
   return phrase
 end
